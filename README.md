@@ -39,3 +39,4 @@ Attrition trend by Years at Company
 Department-level filtering for focused insights
 
 5. Screenshots
+https://github.com/Pihu3021/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
