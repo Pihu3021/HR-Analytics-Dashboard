@@ -41,3 +41,5 @@ Department-level filtering for focused insights
 5. Screenshots
    Dashboar preview
    https://github.com/Pihu3021/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
+   <img width="1120" height="628" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/625f8c47-d6b8-472b-baf2-ec90b47e56fe" />
+
