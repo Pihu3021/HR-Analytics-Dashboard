@@ -3,7 +3,7 @@
 
 HR Analytics Dashboard- Employee Attrition Insights (Power BI)
 
-2. Short Descripation
+2.Short Descripation
    
    Build an interactive HR Analytics dashboard built using Power BI to analyze employee attrition trends. The dashboard provides insights into key factors such as age, salary, education, job role, and years at the company, helping organizations make data-driven HR decisions and improve employee retention.
 
@@ -16,7 +16,7 @@ Power Query (M Language) – Data cleaning & transformation
 Excel / CSV Dataset – Data source
 Data Modeling – Relationships & schema design
 
-4. Features/Highlights
+4.Features/Highlights
    
 Business Problem:
 Organizations face high employee attrition, leading to increased hiring costs, productivity loss, and workforce instability. There is a need to identify key drivers of attrition and patterns across different employee segments.
@@ -42,7 +42,7 @@ Gender
 Attrition trend by Years at Company 
 Department-level filtering for focused insights
 
-5. Screenshots
+5.Screenshots
    
    Dashboard preview
    https://github.com/Pihu3021/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
